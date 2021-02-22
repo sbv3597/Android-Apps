@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Remindery</string>
+    <string name="action_settings">Settings</string>
+    <string name="homeTitle">Reminders</string>
+    <string name="add_reminder">Add Reminder</string>
+    <string name="title_activity_add_reminder">add_reminder</string>
+</resources>
